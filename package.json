@@ -1,0 +1,5 @@
+{
+  "name": "sidekiq-redis",
+  "private": true,
+  "dependencies": {}
+}
